@@ -1,2 +1,2 @@
 ﻿# So-cean
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=So-cean&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/So-cean/count.svg)
